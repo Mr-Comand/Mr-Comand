@@ -15,6 +15,9 @@ This Tampermonkey script removes YouTube shorts from search results, watch pages
 
 ### [DMXtoBeamer](https://github.com/Mr-Comand/DMXtoBeamer)
 A project in heavy development aimed to generate animations using DMX data to control a projector as a laser, creating patterns controllable via Art-Net and utilizing a web interface for configuration and display.
+ 
+### [Fanny-SMTP-Mailer-WP-Plugin](https://github.com/Fanny-Leicht-Gymnasium/Fanny-SMTP-Mailer-WP-Plugin)
+A WordPress plugin for configuring SMTP settings and sending emails via SMTP using PHPMailer. 
 
 ## 🎮 Minecraft
 I enjoy playing Minecraft and exploring different aspects of the game, including redstone engineering and server management. I also create various Command Block Creations to enhance gameplay.
