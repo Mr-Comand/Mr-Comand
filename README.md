@@ -1,4 +1,4 @@
-# Hi there, I'm Mr-Comand! 👋
+# Hi there, I'm Mr_Comand! 👋
 
 I'm a student passionate about programming based in Germany. I enjoy working with Python, Java, PHP, HTML, CSS, and JavaScript. Additionally, I love creating mesmerizing light shows using ONYX from [Obsidian Control Systems](https://obsidiancontrol.com/).
 
