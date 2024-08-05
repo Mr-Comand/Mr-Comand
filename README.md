@@ -7,6 +7,7 @@ I'm a student passionate about programming based in Germany. I enjoy working wit
 - Web Development: HTML, CSS, JavaScript
 - Tools: ONYX Lighting Control, Git
 - Electronics: Arduino, ESP
+- Currently learning: GO
 
 ## 💻 Projects
 
