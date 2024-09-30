@@ -3,11 +3,10 @@
 I'm a student passionate about programming based in Germany. I enjoy working with Python, Java, PHP, HTML, CSS, and JavaScript. Additionally, I love creating mesmerizing light shows using ONYX from [Obsidian Control Systems](https://obsidiancontrol.com/).
 
 ## 🚀 Skills and Tools
-- Programming Languages: Python, Java, PHP
+- Programming Languages: Python, Java, PHP, Golang
 - Web Development: HTML, CSS, JavaScript
 - Tools: ONYX Lighting Control, Git
 - Electronics: Arduino, ESP
-- Currently learning: GO
 
 ## 💻 Projects
 
